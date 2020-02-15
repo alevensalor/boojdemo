@@ -29,9 +29,10 @@
                 <h1 class="display-3">Welcome!</h1>
                     <div id="moreOrLess">Less</div>
                     <div id="explain">
-                        <p>Welcome to the demonstration! We've got a few things to look at here, so let's start with the postman
-                            scripts you can use to test the API: [downloadable link here].
-                        </p>
+                        <p>Welcome to the demonstration! We've got a few things to look at here.</p>
+                        <p>To <b>Add</b> a book, enter the title, author(s) separated by commas, and any subject tags you like. Click the indicated button to
+                        add the book to the reading list.</p>
+                        <p>You can click any tag on the left to see the books that have been marked with that tag.</p>
                         <p>Next, let's talk about the structure a little bit: I chose Laravel 5.8 for 2 reasons:
                         <ol><li>I was told this is the version Booj uses.</li>
                             <li>I needed an API and a user interface, so I used the full installation instead of Lumen.</li>
